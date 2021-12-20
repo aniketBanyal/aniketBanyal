@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aniket Banyal
-- 👀 I’m interested in Crafting Software
 - 🌱 I’m currently learning Django Rest Framework
 
 <!---
